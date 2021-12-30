@@ -23,4 +23,4 @@ Ola! Eu sou o Daniel Ferrari
     
   </div>
   
-  ![Snake animation]https://github.com/DanFerrari/DanFerrari/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/DanFerrari/DanFerrari/blob/output/github-contribution-grid-snake.svg)
