@@ -1,8 +1,9 @@
+
+<h1>Hello World!👋</h1>
 Ola! Eu sou o Daniel Ferrari
 
 - 🔭 Hoje trabalho na aréa da telecomunicação, mas estou em busca de oportunidades na aréa de desenvolvimento
-- 🌱 Estou aprendendo Java,React Native e Typerscript
-- 😄 Pronouns: ele/dele
+- 🌱 Estou aprendendo React Native e Typerscript!
 
 <div align="center">
   <a href="https://github.com/DanFerrari">
