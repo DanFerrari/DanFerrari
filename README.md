@@ -1,14 +1,12 @@
 
 <h1>Hello World!👋</h1>
 Ola! Eu sou o Daniel Ferrari
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/96835251/160872842-cc940ada-acde-4e13-83d1-e059b83e3c28.gif)
-
-
 - 🤯 Tenho conhecimento em PHP,C#,HTML,CSS,JAVASCRIPT e MYSQL. 
 - 🔭 Hoje trabalho na aréa da telecomunicação, mas estou em busca de oportunidades na aréa de desenvolvimento 
 - 🌱 Estou estudando React,Node.js,Next.js e MongoDB. 
 <div align="center">
+  
+<img src='https://user-images.githubusercontent.com/96835251/160872842-cc940ada-acde-4e13-83d1-e059b83e3c28.gif' height="100" width="100" alt="gif Dan" align="cover">
   
   <a href="https://github.com/DanFerrari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanFerrari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
