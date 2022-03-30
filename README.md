@@ -5,7 +5,7 @@ Ola! Eu sou o Daniel Ferrari
 - 🤯 Tenho conhecimento em PHP,C#,HTML,CSS,JAVASCRIPT e MYSQL.  <br>
 - 🔭 Hoje trabalho na aréa da telecomunicação, mas estou em busca de oportunidades na aréa de desenvolvimento <br> 
 - 🌱 Estou estudando React,Node.js,Next.js e MongoDB. <br>
-- 
+
 
 
 
