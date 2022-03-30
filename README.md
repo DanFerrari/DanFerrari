@@ -1,12 +1,15 @@
 
 <h1>Hello World!👋</h1>
 Ola! Eu sou o Daniel Ferrari
-- 🤯 Tenho conhecimento em PHP,C#,HTML,CSS,JAVASCRIPT e MYSQL. 
+- 🤯 Tenho conhecimento em PHP,C#,HTML,CSS,JAVASCRIPT e MYSQL.  
 - 🔭 Hoje trabalho na aréa da telecomunicação, mas estou em busca de oportunidades na aréa de desenvolvimento 
 - 🌱 Estou estudando React,Node.js,Next.js e MongoDB. 
+
+<img src='https://user-images.githubusercontent.com/96835251/160872842-cc940ada-acde-4e13-83d1-e059b83e3c28.gif' height="100" width="100" alt="gif Dan" display='block' margin='20 20'>
+
 <div align="center">
   
-<img src='https://user-images.githubusercontent.com/96835251/160872842-cc940ada-acde-4e13-83d1-e059b83e3c28.gif' height="100" width="100" alt="gif Dan" display='block' margin='20 20'>
+
   
   <a href="https://github.com/DanFerrari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanFerrari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
