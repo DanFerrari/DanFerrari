@@ -20,7 +20,7 @@
 </ul>
 
 ---
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:058082,100:08565A&text=My%20Stack&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=My%20Stack&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanFerrari&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Ferrari github stats" /> 
