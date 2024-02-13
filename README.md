@@ -19,7 +19,7 @@
 
 </ul>
 
----
+-------
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=My%20Stack&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
 
 <div align="center">  
