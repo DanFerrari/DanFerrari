@@ -90,30 +90,29 @@
 --------
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=Contact%20Me&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
 
-<div align="left">
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>  
-  
- <a href="" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
- 
- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
- 
- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
- 
- <a href="" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
- 
-</div>
+<div align="center"> 
+<a href="https://www.instagram.com/daniel.ferrari.982292/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.danieldasilvaferrari@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danielsilvaferrari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
-###
 
 --------
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=Activity&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanFerrari&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Ferrari github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanFerrari&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanFerrari&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<img align="left" height="498px" src="https://DanFerrari-github-readme-stats.vercel.app/api/top-langs?username=DanFerrari&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400" />
+<div align="right">
+  <img height="244px" src="https://DanFerari-github-readme-stats.vercel.app/api?username=DanFerrari&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400" />
+  <img height="244px" src="https://streak-stats.demolab.com?user=DanFerrari&theme=tokyonight&hide_border=true" />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanFerrari&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+<div align="center">
+  <img src="https://DanFerrari-github-readme-stats.vercel.app/api/wakatime?username=DanFerrari&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
+</div>
 
 
 
