@@ -98,7 +98,7 @@
 
 
 --------
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=35&duration=4000&pause=1000&center=true&repeat=false&random=false&width=435&lines=Contact+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=35&duration=4000&pause=1000&center=true&repeat=false&random=false&width=435&lines=Status)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanFerrari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
