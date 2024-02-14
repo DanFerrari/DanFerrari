@@ -7,7 +7,7 @@
 
 
 -------
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=About%20me&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=56&reversal=false&strokeWidth=0&fontAlign=51"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=35&duration=4000&pause=1000&center=true&repeat=false&random=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
 <ul>
   <li>🤩️ Passionate about Programming, Eletronics,Games and Music.</li>
@@ -20,7 +20,7 @@
 </ul>
 
 -------
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=My%20Stack&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=35&duration=4000&pause=1000&center=true&repeat=false&random=false&width=435&lines=My+Stack)](https://git.io/typing-svg)
 
 ### Programming Languages
 
@@ -88,7 +88,7 @@
 
 
 --------
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=Contact%20Me&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=35&duration=4000&pause=1000&center=true&repeat=false&random=false&width=435&lines=Contact+Me)](https://git.io/typing-svg)
 
 <div align="center"> 
 <a href="https://www.instagram.com/daniel.ferrari.982292/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -98,8 +98,7 @@
 
 
 --------
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:058082,100:08565A&text=Activity&textBg=false&fontColor=ffff&fontSize=35&animation=fadeIn&descAlign=50&reversal=false&strokeWidth=0&fontAlign=51&descAlignY=50"/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=35&duration=4000&pause=1000&center=true&repeat=false&random=false&width=435&lines=Contact+Me)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanFerrari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
